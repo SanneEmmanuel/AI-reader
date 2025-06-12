@@ -2,10 +2,10 @@
   "name": "ai-reader",
   "version": "1.0.0",
   "description": "Fastify-based API server using Playwright for automated page reading sessions",
-  "main": "index.js",
+  "main": "main.js",
   "type": "module",
   "scripts": {
-    "start": "node index.js"
+    "start": "node main.js"
   },
   "dependencies": {
     "@fastify/cors": "^8.2.1",
@@ -16,6 +16,6 @@
   "engines": {
     "node": ">=18"
   },
-  "author": "",
+  "author": "Sanne Karibo",
   "license": "MIT"
 }
