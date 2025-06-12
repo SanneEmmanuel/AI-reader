@@ -1,6 +1,3 @@
-Here is your `README.md` for **AI-Reader by Dr Sanne Karibo**:
-
----
 
 # 📖 AI-Reader
 
@@ -152,6 +149,3 @@ GET /users/list
 **Dr Sanne Karibo**
 Creator of AI-Reader – Human behavior simulation meets automation.
 
----
-
-Would you like this version saved as a file or published to GitHub with version control and environment setup?
